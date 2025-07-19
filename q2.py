@@ -1,4 +1,4 @@
-# to classify the model as rich or poor based the payments
+# toclassify the model as rich or poor based the payments
 
 import pandas as pd
 import numpy as np
